@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the members feature.
+ */
+
+include_once('members.features.inc');
